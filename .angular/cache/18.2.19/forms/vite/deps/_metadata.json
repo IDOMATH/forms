@@ -1,0 +1,34 @@
+{
+  "hash": "1cbe1630",
+  "configHash": "6b597dbf",
+  "lockfileHash": "f8353574",
+  "browserHash": "d612681d",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "aabea573",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "f0e2fdb0",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c8c9de01",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-HOSBANRR": {
+      "file": "chunk-HOSBANRR.js"
+    },
+    "chunk-C7GL24IT": {
+      "file": "chunk-C7GL24IT.js"
+    }
+  }
+}
